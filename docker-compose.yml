@@ -2,5 +2,5 @@ services:
   showtime:
     build: .
     container_name: showtime_container
-    environment:
-    - TIME_ENV=Africa/Mogadishu
+    # environment:
+    # - TIME_ENV=Africa/Mogadishu
